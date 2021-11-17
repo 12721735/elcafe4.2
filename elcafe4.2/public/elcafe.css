@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+h1{
+	color: brown;
+	text-align: center;
+}
+p{
+	color: red;
+}
+body{
+	background-color:orange;
+}
